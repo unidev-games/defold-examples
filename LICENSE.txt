@@ -1,0 +1,9 @@
+The license for the "Alien World", "War Battles", "Ocean Commotion",
+"Magic Link" and "Runner" projects (including assets) can be found at:
+
+http://www.defold.com/terms-and-conditions/#3-license-to-the-defold-additional-materials.
+
+The "Examples" project contains assets from http://kenney.nl/ that are public
+domain (Creative Commons Zero) licensed:
+
+https://creativecommons.org/publicdomain/zero/1.0/
